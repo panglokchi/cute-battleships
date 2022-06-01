@@ -1,6 +1,8 @@
 # cute-battleships
 Simple implementation of the Battleship game using Qt with a simple AI opponent.
 
+Created in November 2020.
+
 Screenshots:
 
 ![image](https://user-images.githubusercontent.com/66269796/171395150-cc9e7cb6-551b-42fd-b2f9-dbd7ba3cd0b4.png)
