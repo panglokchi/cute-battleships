@@ -1,5 +1,5 @@
 # cute-battleships
-Simple implementation of the Battleship game using Qt.
+Simple implementation of the Battleship game using Qt with a simple AI opponent.
 
 Screenshots:
 
