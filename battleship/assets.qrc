@@ -1,0 +1,21 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>ship_images/empty.png</file>
+        <file>ship_images/ship_bow_green.png</file>
+        <file>ship_images/ship_bow_red.png</file>
+        <file>ship_images/ship_mid_green.png</file>
+        <file>ship_images/ship_mid_red.png</file>
+        <file>ship_images/ship_stern_green.png</file>
+        <file>ship_images/ship_stern_red.png</file>
+        <file>ship_images/ship_5_green.png</file>
+        <file>ship_images/ship_5_red.png</file>
+        <file>ship_images/ship_4_green.png</file>
+        <file>ship_images/ship_2_green.png</file>
+        <file>ship_images/ship_2_red.png</file>
+        <file>ship_images/ship_3_green.png</file>
+        <file>ship_images/ship_3_red.png</file>
+        <file>ship_images/ship_4_red.png</file>
+        <file>ship_images/red_circle.png</file>
+        <file>ship_images/red_cross.png</file>
+    </qresource>
+</RCC>

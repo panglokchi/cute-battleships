@@ -1,0 +1,11 @@
+debug/aiplayer.o
+debug/grid.o
+debug/humanplayer.o
+debug/main.o
+debug/mainwindow.o
+debug/player.o
+debug/playergrid.o
+debug/ship.o
+debug/qrc_assets.o
+debug/moc_mainwindow.o
+debug/moc_playergrid.o

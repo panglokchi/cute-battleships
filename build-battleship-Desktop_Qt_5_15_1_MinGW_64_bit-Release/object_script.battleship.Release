@@ -1,0 +1,11 @@
+release/aiplayer.o
+release/grid.o
+release/humanplayer.o
+release/main.o
+release/mainwindow.o
+release/player.o
+release/playergrid.o
+release/ship.o
+release/qrc_assets.o
+release/moc_mainwindow.o
+release/moc_playergrid.o
